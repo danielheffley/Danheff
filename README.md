@@ -1,2 +1,2 @@
 # Danheff
-This is a short example of webscraping a website and cleaning the data using SQL
+On my page, you will find a selection of different projects I've done relating to databases and data science. More projects are on the way!
