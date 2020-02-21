@@ -1,0 +1,517 @@
+Artist,Venue,City,Territory,Day_Num,Month_Num,Year
+Slipknot,Manchester Arena,Manchester,United Kingdom,16,1,2020
+Slipknot,Utilita Arena,Newcastle upon Tyne,United Kingdom,17,1,2020
+Dream Theater,Helsinki Ice Hall,Helsinki,Finland,17,1,2020
+Slipknot,SSE Hydro,Glasgow,United Kingdom,18,1,2020
+Dream Theater,Club Teatria,Oulu,Finland,18,1,2020
+Slipknot,FlyDSA Arena,Sheffield,United Kingdom,20,1,2020
+Dream Theater,Trondheim Spektrum,Trondheim,Norway,20,1,2020
+Slipknot,Motorpoint Arena,Nottingham,United Kingdom,21,1,2020
+Dream Theater,Oslo Spektrum Arena,Oslo,Norway,21,1,2020
+Slipknot,Motorpoint Arena Cardiff,Cardiff,United Kingdom,22,1,2020
+Dream Theater,Sporthalle Hamburg,Hamburg,Germany,23,1,2020
+Slipknot,Birmingham Arena,Birmingham,United Kingdom,24,1,2020
+Dream Theater,Kulturværftet,Helsingør,Denmark,24,1,2020
+Slipknot,The O2,London,United Kingdom,25,1,2020
+Madonna,The London Palladium,London,United Kingdom,26,1,2020
+Madonna,The London Palladium,London,United Kingdom,27,1,2020
+Slipknot,Ziggo Dome,Amsterdam,Netherlands,28,1,2020
+Solange,Sydney Opera House,Sydney,Australia,28,1,2020
+Madonna,The London Palladium,London,United Kingdom,29,1,2020
+Slipknot,Festhalle Messe Frankfurt GmbH,Frankfurt am Main,Germany,29,1,2020
+Madonna,The London Palladium,London,United Kingdom,30,1,2020
+Randy Newman,Perth Convention and Exhibition Centre,Perth,Australia,30,1,2020
+Madonna,The London Palladium,London,United Kingdom,1,2,2020
+Tedeschi Trucks Band,"The SSE Arena, Wembley",London,United Kingdom,1,2,2020
+Madonna,The London Palladium,London,United Kingdom,2,2,2020
+Randy Newman,Hamer Hall,Melbourne,Australia,2,2,2020
+Madonna,The London Palladium,London,United Kingdom,4,2,2020
+Madonna,The London Palladium,London,United Kingdom,5,2,2020
+Dream Theater,Mhp Arena,Ludwigsburg,Germany,5,2,2020
+Madonna,The London Palladium,London,United Kingdom,6,2,2020
+Dream Theater,Jahrhunderthalle,Frankfurt am Main,Germany,6,2,2020
+Randy Newman,Queensland Performing Arts Centre (QPAC),Brisbane,Australia,7,2,2020
+Madonna,The London Palladium,London,United Kingdom,8,2,2020
+Slipknot,Hanns-Martin-Schleyer-Halle,Stuttgart,Germany,8,2,2020
+Madonna,The London Palladium,London,United Kingdom,9,2,2020
+Slipknot,Olympiahalle,Munich,Germany,9,2,2020
+Randy Newman,The Civic,Auckland,New Zealand,9,2,2020
+Dream Theater,Zenith,Munich,Germany,9,2,2020
+Hans Zimmer,Hartwall Arena,Helsinki,Finland,10,2,2020
+Madonna,The London Palladium,London,United Kingdom,11,2,2020
+Randy Newman,The Opera House,Wellington,New Zealand,11,2,2020
+Madonna,The London Palladium,London,United Kingdom,12,2,2020
+Madonna,The London Palladium,London,United Kingdom,13,2,2020
+Tool,RAC Arena,Perth,Australia,14,2,2020
+Madonna,The London Palladium,London,United Kingdom,15,2,2020
+Madonna,The London Palladium,London,United Kingdom,16,2,2020
+Slipknot,Barclaycard Arena Hamburg,Hamburg,Germany,16,2,2020
+Tool,Qudos Bank Arena,Sydney,Australia,17,2,2020
+Slipknot,Mercedes-Benz Arena,Berlin,Germany,17,2,2020
+Tool,Qudos Bank Arena,Sydney,Australia,18,2,2020
+Slipknot,Westfalenhalle 1,Dortmund,Germany,18,2,2020
+Dream Theater,Swiss Life Hall,Hannover,Germany,18,2,2020
+Goo Goo Dolls,O2 Academy Glasgow,Glasgow,United Kingdom,19,2,2020
+Whitesnake,Rod Laver Arena,Melbourne,Australia,19,2,2020
+Maluma,Hartwall Arena,Helsinki,Finland,19,2,2020
+Tool,Brisbane Entertainment Centre,Boondall,Australia,20,2,2020
+Slipknot,Royal Arena,Copenhagen,Denmark,20,2,2020
+Lana Del Rey,Ziggo Dome,Amsterdam Zuidoost,Netherlands,21,2,2020
+Goo Goo Dolls,Albert Hall,City Centre,United Kingdom,21,2,2020
+Ben Harper,TSB Bowl of BROOKLANDS,New Plymouth,New Zealand,21,2,2020
+Slipknot,Ericsson Globe,Stockholm,Sweden,21,2,2020
+Maluma,Telenor Arena Shuttlebuss,Oslo,Norway,21,2,2020
+Dream Theater,Eventim Apollo,London,United Kingdom,21,2,2020
+Goo Goo Dolls,O2 Academy Leeds,Leeds,United Kingdom,22,2,2020
+Ben Harper,North Hagley Park,Christchurch,New Zealand,22,2,2020
+Tool,Rod Laver Arena,Melbourne,Australia,22,2,2020
+Slipknot,Telenor Arena,Oslo,Norway,22,2,2020
+Whitesnake,Qudos Bank Arena,Sydney,Australia,22,2,2020
+Maluma,Ericsson Globe,Stockholm,Sweden,22,2,2020
+Dream Theater,Eventim Apollo,London,United Kingdom,22,2,2020
+Ben Harper,Cargo Brewery at Waitiri Creek,Queenstown,New Zealand,23,2,2020
+Tool,Rod Laver Arena,Melbourne,Australia,23,2,2020
+Dream Theater,SEC Armadillo,Glasgow,United Kingdom,23,2,2020
+Goo Goo Dolls,Rock City,Nottingham,United Kingdom,24,2,2020
+Slipknot,Hartwall Arena,Helsinki,Finland,24,2,2020
+Whitesnake,Brisbane Entertainment Centre,Boondall,Australia,24,2,2020
+Lana Del Rey,The O2,London,United Kingdom,25,2,2020
+Goo Goo Dolls,O2 Institute,Birmingham,United Kingdom,25,2,2020
+Lana Del Rey,Manchester Arena,Manchester,United Kingdom,26,2,2020
+Goo Goo Dolls,Roundhouse,London,United Kingdom,27,2,2020
+Ben Harper,Logan Campbell Centre,Auckland,New Zealand,27,2,2020
+Whitesnake,Spark Arena,Auckland,New Zealand,27,2,2020
+Lana Del Rey,SSE Hydro,Glasgow,United Kingdom,28,2,2020
+Ben Harper,Church Road Winery,Napier,New Zealand,28,2,2020
+Tool,Spark Arena,Auckland,New Zealand,28,2,2020
+Elvis Costello,Liverpool Olympia,Liverpool,United Kingdom,28,2,2020
+Lana Del Rey,Resorts World Arena,Birmingham,United Kingdom,29,2,2020
+Ben Harper,Mount Park,Tauranga,New Zealand,29,2,2020
+Tool,Spark Arena,Auckland,New Zealand,29,2,2020
+Patty Griffin,Meeniyan Town Hall,Meeniyan,Australia,1,3,2020
+The Cadillac Three,Slaktkyrkan,Stockholm,Sweden,1,3,2020
+Elvis Costello,Mayflower Theatre,Southampton,United Kingdom,1,3,2020
+Lana Del Rey,Mercedes-Benz Arena,Berlin,Germany,2,3,2020
+The Cadillac Three,Parkteatret Scene,Oslo,Norway,2,3,2020
+Nelly,Motorpoint Arena Cardiff,Cardiff,United Kingdom,2,3,2020
+Elvis Costello,Theatre Royal Concert Hall,Nottingham,United Kingdom,2,3,2020
+Lana Del Rey,Lanxess Arena,Cologne,Germany,3,3,2020
+Patty Griffin,Melbourne Recital Centre,Melbourne,Australia,3,3,2020
+The Cadillac Three,Pustervik,Göteborg,Sweden,3,3,2020
+Nelly,Motorpoint Arena Nottingham,Nottingham,United Kingdom,3,3,2020
+Elvis Costello,Sunderland Empire Theatre,Sunderland,United Kingdom,3,3,2020
+Maluma,Olympiahalle München,Munich,Germany,3,3,2020
+The Cadillac Three,Pumpehuset,Copenhagen,Denmark,4,3,2020
+Grouplove,Lafayette,London,United Kingdom,4,3,2020
+Patty Griffin,The Capital,Bendigo,Australia,5,3,2020
+Nelly,First Direct Arena,Leeds,United Kingdom,5,3,2020
+Elvis Costello,SEC Armadillo,Glasgow,United Kingdom,5,3,2020
+Maluma,Hanns-Martin-Schleyer-Halle,Stuttgart,Germany,5,3,2020
+The Cadillac Three,Verti Music Hall,Berlin,Germany,6,3,2020
+Nelly,Manchester Arena,Manchester,United Kingdom,6,3,2020
+Patty Griffin,Port Fairy Folk Festival,Port Fairy,Australia,7,3,2020
+Old Dominion,Verti Music Hall,Berlin,Germany,7,3,2020
+Zedd,Parramatta Park,Parramatta,Australia,7,3,2020
+Blondie,Kampnagel International Kurlturfabrik,Hamburg,Germany,7,3,2020
+Elvis Costello,Sheffield City Hall,Sheffield,United Kingdom,7,3,2020
+Patty Griffin,Port Fairy Folk Festival,Port Fairy,Australia,8,3,2020
+Old Dominion,AFAS Live,Amsterdam,Netherlands,8,3,2020
+The Cadillac Three,AFAS Live,Amsterdam,Netherlands,8,3,2020
+Zedd,Flemington Racecourse,Flemington,Australia,8,3,2020
+Nelly,SSE Hydro,Glasgow,United Kingdom,8,3,2020
+Blondie,Funkhaus Berlin Nalepastrasse,Berlin,Germany,9,3,2020
+Elvis Costello,Blackpool Opera House,Blackpool,United Kingdom,9,3,2020
+Patty Griffin,City Recital Hall,Sydney,Australia,10,3,2020
+Nelly,M&S Bank Arena Liverpool,Liverpool,United Kingdom,10,3,2020
+Elvis Costello,The Usher Hall,Edinburgh,United Kingdom,10,3,2020
+Nelly,The O2,London,United Kingdom,11,3,2020
+Patty Griffin,The Tivoli,Brisbane,Australia,12,3,2020
+Richard Marx,Musikteatret Holstebro,Holstebro,Denmark,12,3,2020
+Nelly,Resorts World Arena,Birmingham,United Kingdom,12,3,2020
+Elvis Costello,Palace Theatre,Manchester,United Kingdom,12,3,2020
+Patty Griffin,Lismore City Hall,Lismore,Australia,13,3,2020
+The Cadillac Three,The O2,London,United Kingdom,13,3,2020
+Blondie,Muffathalle,Munich,Germany,13,3,2020
+The Exploited,Whammy Bar,Auckland,New Zealand,13,3,2020
+Richard Marx,Kulturhuset Viften,Rødovre,Denmark,13,3,2020
+Elvis Costello,Eventim Apollo,London,United Kingdom,13,3,2020
+Old Dominion,The O2,London,United Kingdom,14,3,2020
+The Cadillac Three,SSE Hydro,Glasgow,United Kingdom,14,3,2020
+The Exploited,San Fran,Wellington,New Zealand,14,3,2020
+Richard Marx,Godset,Kolding,Denmark,14,3,2020
+Patty Griffin,The Tuning Fork,Auckland,New Zealand,15,3,2020
+Old Dominion,The SSE Hydro,Glasgow,United Kingdom,15,3,2020
+The Exploited,Club Tavern,Christchurch,New Zealand,15,3,2020
+Elvis Costello,New Theatre Oxford,Oxford,United Kingdom,15,3,2020
+Richard Marx,Die Fabrik in Altona,Hamburg,Germany,16,3,2020
+Elvis Costello,Wales Millennium Centre,Butetown,United Kingdom,16,3,2020
+Richard Marx,Passionskirche Kreuzberg,Berlin,Germany,17,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,18,3,2020
+Richard Marx,Schlösser Quartier Bohème,Düsseldorf,Germany,18,3,2020
+Elvis Costello,Symphony Hall,Birmingham,United Kingdom,18,3,2020
+Maluma,Ziggo Dome,Amsterdam Zuidoost,Netherlands,18,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,19,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,20,3,2020
+Richard Marx,TonHalle München,Munich,Germany,20,3,2020
+Brothers Osborne,Willowbank Raceway,Willowbank,Australia,20,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,21,3,2020
+Richard Marx,Gibson,Frankfurt am Main,Germany,21,3,2020
+Brothers Osborne,Willowbank Raceway,Willowbank,Australia,21,3,2020
+Maluma,Festhalle Messe Frankfurt GmbH,Frankfurt Am Main,Germany,21,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,22,3,2020
+Brothers Osborne,Willowbank Raceway,Willowbank,Australia,22,3,2020
+Richard Marx,Kupfersaal Leipzig,Leipzig,Germany,24,3,2020
+Brothers Osborne,Qudos Bank Arena,Sydney,Australia,24,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,25,3,2020
+Nelly,Vega,Vesterbro,Denmark,25,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,26,3,2020
+Brothers Osborne,Rod Laver Arena,Melbourne,Australia,26,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,27,3,2020
+Electric Light Orchestra,Fuglsøcentret,Knebel,Denmark,28,3,2020
+Carole King,The Royal,Nundah,Australia,28,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,28,3,2020
+Electric Light Orchestra,Docken,København Ø,Denmark,29,3,2020
+The Exploited,The Barwon Club Hotel,South Geelong,Australia,29,3,2020
+Nelly,Poppodium 013,Tilburg,Netherlands,29,3,2020
+Lenny Kravitz,Spark Arena,Auckland,New Zealand,31,3,2020
+Richard Marx,Union Chapel,London,United Kingdom,2,4,2020
+Maluma,The O2,London,United Kingdom,2,4,2020
+Lenny Kravitz,Newcastle Entertainment Centre,Broadmeadow,Australia,3,4,2020
+Albert Hammond,De Tamboer,Hoogeveen,Netherlands,3,4,2020
+Richard Marx,Union Chapel,London,United Kingdom,3,4,2020
+Stone Temple Pilots,Peter Barclay Sports Fields,Tuncurry,Australia,3,4,2020
+Albert Hammond,Cultuurpodium Boerderij,Zoetermeer,Netherlands,4,4,2020
+Richard Marx,The Queen's Hall,Edinburgh,United Kingdom,4,4,2020
+Stone Temple Pilots,The Crescent,Parramatta,Australia,4,4,2020
+Albert Hammond,Muziekcentrum Enschede,Enschede,Netherlands,5,4,2020
+Stone Temple Pilots,The Entertainment Grounds,West Gosford,Australia,5,4,2020
+Lenny Kravitz,Newcastle Entertainment Centre,Broadmeadow,Australia,6,4,2020
+Richard Marx,DeLaMar Theater,Amsterdam,Netherlands,7,4,2020
+Lenny Kravitz,Newcastle Entertainment Centre,Broadmeadow,Australia,8,4,2020
+Richard Marx,Muziekgebouw Eindhoven,Eindhoven,Netherlands,8,4,2020
+Stone Temple Pilots,Stuart Park,North Wollongong,Australia,9,4,2020
+Lenny Kravitz,Tyagarah Tea Tree Farm,Byron Bay,Australia,10,4,2020
+Stone Temple Pilots,Hastings Foreshore Reserve,Hastings,Australia,11,4,2020
+Stone Temple Pilots,Yarrawong Showgrounds,Yarrawonga,Australia,12,4,2020
+Stone Temple Pilots,Bonython Park,Adelaide,Australia,13,4,2020
+Patti Smith,Enmore Theatre,Newtown,Australia,15,4,2020
+Joe Satriani,Halle 45,MAINZ,Germany,15,4,2020
+Stone Temple Pilots,HBF Stadium,Mount Claremont,Australia,15,4,2020
+Patti Smith,Enmore Theatre,Newtown,Australia,16,4,2020
+Albert Hammond,Metropol Theater Bremen,Bremen,Germany,17,4,2020
+Stone Temple Pilots,Sunshine Coast Stadium,Bokarina,Australia,17,4,2020
+Joe Satriani,Tollhaus,Karlsruhe,Germany,18,4,2020
+Wyclef Jean,Malmö Arena,Malmö,Sweden,18,4,2020
+Stone Temple Pilots,Riverstage Brisbane,Brisbane,Australia,18,4,2020
+Albert Hammond,Ernst-Reuter-Saal,Berlin,Germany,19,4,2020
+Joe Satriani,HUXLEY'S NEUE WELT,BERLIN,Germany,19,4,2020
+Stone Temple Pilots,Foreshore Park,Newcastle East,Australia,19,4,2020
+Bon Iver,Mercedes-Benz Arena,Berlin,Germany,20,4,2020
+Joe Satriani,Turbinenhalle Oberhausen,Oberhausen,Germany,20,4,2020
+Patti Smith,Forum Theatre,Melbourne,Australia,21,4,2020
+Joe Satriani,Melkweg,Amsterdam,Netherlands,21,4,2020
+Patti Smith,Forum Theatre,Melbourne,Australia,22,4,2020
+Bon Iver,Ziggo Dome,Amsterdam,Netherlands,24,4,2020
+Albert Hammond,Stadthalle Gersthofen,Gersthofen,Germany,24,4,2020
+Joe Satriani,Muziekcentrum Enschede,Enschede,Netherlands,24,4,2020
+Wyclef Jean,Scandinavium,Göteborg,Sweden,24,4,2020
+Joe Bonamassa,The Brighton Centre,Brighton,United Kingdom,25,4,2020
+Albert Hammond,Alter Schlachthof,Dresden,Germany,25,4,2020
+Joe Satriani,Salierhalle,Winterbach,Germany,25,4,2020
+Wyclef Jean,Tele2 Arena,Johanneshov,Sweden,25,4,2020
+Bon Iver,"The SSE Arena, Wembley",London,United Kingdom,26,4,2020
+Albert Hammond,Alte Oper Erfurt,Erfurt,Germany,26,4,2020
+Joe Bonamassa,Edinburgh Playhouse,Edinburgh,United Kingdom,27,4,2020
+Bon Iver,Arena Birmingham,Birmingham,United Kingdom,27,4,2020
+Patti Smith,"Great Hall, Auckland Town Hall",Auckland,New Zealand,27,4,2020
+Joe Satriani,Train,Århus C,Denmark,27,4,2020
+Joe Bonamassa,M&S Bank Arena Liverpool,Liverpool,United Kingdom,28,4,2020
+Patti Smith,"Great Hall, Auckland Town Hall",Auckland,New Zealand,28,4,2020
+Brothers Osborne,Amager Bio,Copenhagen,Denmark,28,4,2020
+Bon Iver,First Direct Arena,Leeds,United Kingdom,29,4,2020
+Joe Satriani,Amager Bio,Copenhagen,Denmark,29,4,2020
+Brothers Osborne,Slaktkyrkan,Stockholm,Sweden,29,4,2020
+Joe Bonamassa,Sage Gateshead,Gateshead,United Kingdom,30,4,2020
+Bon Iver,Manchester Arena,Manchester,United Kingdom,30,4,2020
+Joe Satriani,Fryshuset Arenan,Stockholm,Sweden,30,4,2020
+Brothers Osborne,Vulkan Arena,Oslo,Norway,30,4,2020
+Joe Bonamassa,First Direct Arena,Leeds,United Kingdom,1,5,2020
+Bon Iver,SSE Hydro,Glasgow,United Kingdom,1,5,2020
+Joe Bonamassa,Motorpoint Arena Cardiff,Cardiff,United Kingdom,2,5,2020
+Joe Satriani,Rockefeller,Oslo,Norway,2,5,2020
+Suzanne Vega,Château Beaufort,Belfort,Germany,2,5,2020
+The Exploited,O2 Forum Kentish Town,London,United Kingdom,2,5,2020
+Brothers Osborne,Paradiso,Amsterdam,Netherlands,2,5,2020
+Brothers Osborne,Tilburg,Tilburg,Netherlands,3,5,2020
+Joe Bonamassa,Saarlandhalle,Saarbrücken,Germany,5,5,2020
+Dua Lipa,Lanxess Arena,Köln,Germany,5,5,2020
+Brothers Osborne,Die Kantine,Köln,Germany,5,5,2020
+Brothers Osborne,Technikum München,Munich,Germany,6,5,2020
+Joe Bonamassa,Verti Music Hall,Berlin,Germany,7,5,2020
+Dua Lipa,Ziggo Dome,Amsterdam,Netherlands,7,5,2020
+Brothers Osborne,Batschkapp,Frankfurt Am Main,Germany,7,5,2020
+Joe Bonamassa,Verti Music Hall,Berlin,Germany,8,5,2020
+Suzanne Vega,Metropol,Berlin,Germany,8,5,2020
+The Exploited,Hellraiser-Leipzig,Leipzig/Engelsdorf,Germany,8,5,2020
+Brothers Osborne,Ferien- und Freizeitpark Weissenhäuser Strand,Wangels,Germany,8,5,2020
+Joe Bonamassa,Jahrhunderthalle,Frankfurt Am Main,Germany,9,5,2020
+Suzanne Vega,De Waalse Kerk,Amsterdam,Netherlands,9,5,2020
+Dua Lipa,Royal Arena,Copenhagen,Denmark,10,5,2020
+Whitesnake,Oslo Spektrum Arena,Oslo,Norway,10,5,2020
+Brothers Osborne,O2 Institute,Birmingham,United Kingdom,10,5,2020
+Joe Bonamassa,Swiss Life Hall,HANNOVER,Germany,11,5,2020
+Brothers Osborne,Cambridge Junction,Cambridge,United Kingdom,11,5,2020
+Dua Lipa,Ericsson Globe,Stockholm,Sweden,12,5,2020
+Suzanne Vega,EartH,London,United Kingdom,12,5,2020
+Brothers Osborne,The Roundhouse,London,United Kingdom,12,5,2020
+Joe Bonamassa,QUARTERBACK Immobilien ARENA,Leipzig,Germany,13,5,2020
+Dua Lipa,Oslo Spektrum Arena,Oslo,Norway,13,5,2020
+Whitesnake,Royal Arena,Copenhagen,Denmark,14,5,2020
+Brothers Osborne,The Queen's Hall,Edinburgh,United Kingdom,14,5,2020
+Dua Lipa,Barclaycard Arena Hamburg,Hamburg,Germany,15,5,2020
+Brothers Osborne,Albert Hall,Manchester,United Kingdom,15,5,2020
+Brothers Osborne,Stylus,Leeds,United Kingdom,16,5,2020
+Neil Young,Lizotte's,Lambton,Australia,17,5,2020
+Dua Lipa,Mercedes-Benz Arena,Berlin,Germany,17,5,2020
+Randy Newman,Cirkus,Stockholm,Sweden,17,5,2020
+Whitesnake,Zenith,Munich,Germany,17,5,2020
+Randy Newman,Sentrum Scene,Oslo,Norway,19,5,2020
+Joe Satriani,Löwensaal,Nuremberg,Germany,19,5,2020
+Dua Lipa,Olympiahalle,Munich,Germany,20,5,2020
+The Exploited,Zakk gGmbh,DÜSSELDORF,Germany,20,5,2020
+Whitesnake,Verti Music Hall,Berlin,Germany,21,5,2020
+The Exploited,Sputnikhalle,Münster,Germany,21,5,2020
+Whitesnake,Sporthalle Hamburg,Hamburg,Germany,22,5,2020
+Joe Satriani,De La Warr Pavilion,Bexhill On Sea,United Kingdom,22,5,2020
+The Exploited,Pitfest (22./23.05.2020),Erica,Netherlands,22,5,2020
+Randy Newman,Die Glocke (Großer Saal),Bremen,Germany,23,5,2020
+Albert Hammond,AMO Kulturhaus,Magdeburg,Germany,23,5,2020
+Joe Satriani,O2 Academy Glasgow,Glasgow,United Kingdom,23,5,2020
+Whitesnake,Warsteiner Music Hall,Dortmund,Germany,24,5,2020
+Joe Satriani,Sage Gateshead,Gateshead,United Kingdom,24,5,2020
+Randy Newman,Admiralspalast,Berlin,Germany,25,5,2020
+Joe Satriani,The Bridgewater Hall,Manchester,United Kingdom,25,5,2020
+Guns N' Roses,Olympiastadion,München,Germany,26,5,2020
+Dua Lipa,The O2,London,United Kingdom,26,5,2020
+Whitesnake,Porsche Arena,Stuttgart,Germany,26,5,2020
+Joe Satriani,The London Palladium,London,United Kingdom,26,5,2020
+Guns N Roses,Olympiastadion,München,Germany,26,5,2020
+Dua Lipa,The O2,London,United Kingdom,27,5,2020
+Albert Hammond,Kulturperlen Holstebro,Holstebro,Denmark,27,5,2020
+The Killers,Falkirk Stadium,Falkirk,United Kingdom,28,5,2020
+Joe Satriani,Symphony Hall,Birmingham,United Kingdom,28,5,2020
+Paul Mccartney,Goffertpark,Nijmegen,Netherlands,29,5,2020
+Guns N' Roses,Tottenham Hotspur Stadium,London,United Kingdom,29,5,2020
+Randy Newman,Kurfürstliches Schloss - Großer Saal,Mainz,Germany,29,5,2020
+Guns N Roses,Tottenham Hotspur Stadium,London,United Kingdom,29,5,2020
+Guns N' Roses,Tottenham Hotspur Stadium,London,United Kingdom,30,5,2020
+Randy Newman,Liederhalle,Stuttgart,Germany,30,5,2020
+The Killers,Old Trafford Cricket Ground,Stretford,United Kingdom,30,5,2020
+Guns N Roses,Tottenham Hotspur Stadium,London,United Kingdom,30,5,2020
+Whitesnake,The O2,London,United Kingdom,31,5,2020
+Dua Lipa,Manchester Arena,Manchester,United Kingdom,1,6,2020
+Randy Newman,TivoliVredenburg,Utrecht,Netherlands,1,6,2020
+Whitesnake,Motorpoint Arena Cardiff,Cardiff,United Kingdom,1,6,2020
+The Killers,Carrow Road Stadium,Norwich,United Kingdom,1,6,2020
+Guns N' Roses,Volksparkstadion,Hamburg,Germany,2,6,2020
+Guns N Roses,Volksparkstadion,Hamburg,Germany,2,6,2020
+Randy Newman,The Concertgebouw,Amsterdam,Netherlands,3,6,2020
+Whitesnake,Arena Birmingham,Birmingham,United Kingdom,3,6,2020
+The Killers,St Mary's Stadium,Southampton,United Kingdom,3,6,2020
+Paul Mccartney,HDI-Arena,Hannover,Germany,4,6,2020
+Lionel Richie,Racecourse Ground,Wrexham,United Kingdom,4,6,2020
+Dua Lipa,First Direct Arena,Leeds,United Kingdom,4,6,2020
+Whitesnake,SSE Hydro,Glasgow,United Kingdom,4,6,2020
+Bon Iver,The Trusts Arena,Auckland,New Zealand,5,6,2020
+Disturbed,Nürburgring,Nürburg,Germany,5,6,2020
+Randy Newman,De Oosterpoort,Da Groningen,Netherlands,5,6,2020
+The Hooters,Musiktheater REX,Bensheim,Germany,6,6,2020
+Albert Hammond,Insel Grafenwerth,Bad Honnef,Germany,6,6,2020
+The Killers,Emirates Stadium,London,United Kingdom,6,6,2020
+Bon Iver,TSB Arena,Wellington,New Zealand,7,6,2020
+Dua Lipa,Motorpoint Arena Cardiff,Cardiff,United Kingdom,7,6,2020
+Disturbed,Bürgerweide,Bremen,Germany,7,6,2020
+Disturbed,Zeppelinfeld,Nürnberg,Germany,7,6,2020
+Randy Newman,Spiritland Royal Festival Hall,London,United Kingdom,7,6,2020
+The Hooters,Schlosshof Gifhorn,Gifhorn,Germany,7,6,2020
+Whitesnake,Manchester Arena,Manchester,United Kingdom,8,6,2020
+Lionel Richie,Scarborough Open Air Theatre,Scarborough,United Kingdom,9,6,2020
+Randy Newman,Sage Gateshead,Gateshead,United Kingdom,9,6,2020
+The Hooters,Kulturzelt Wolfhagen,Wolfhagen,Germany,9,6,2020
+The Killers,Ashton Gate,Bristol,United Kingdom,9,6,2020
+Dua Lipa,Arena Birmingham,Birmingham,United Kingdom,10,6,2020
+Patti Smith,Stadtpark Freilichtbühne,Hamburg,Germany,10,6,2020
+Randy Newman,Usher Hall,Edinburgh,United Kingdom,10,6,2020
+The Hooters,Substage,Karlsruhe,Germany,10,6,2020
+Lionel Richie,Hampton Court Palace,Surrey,United Kingdom,11,6,2020
+The Killers,Ricoh Arena,Coventry,United Kingdom,11,6,2020
+Kiss,Donington Park Circuit,Derby,United Kingdom,12,6,2020
+Kiss,Download Festival,Derby,United Kingdom,12,6,2020
+Lionel Richie,Isle of Wight Festival,Yarmouth,United Kingdom,12,6,2020
+Bon Iver,Dark Mofo Festival,Hobart,Australia,12,6,2020
+Patti Smith,Zitadelle Spandau,Berlin,Germany,12,6,2020
+Disturbed,Donington Park Circuit,Derby,United Kingdom,12,6,2020
+The Hooters,Parkbühne im Clara Zetkin Park,Leipzig,Germany,12,6,2020
+Albert Hammond,Burgfestspiele Bad Vilbel,Bad Vilbel,Germany,12,6,2020
+Bon Iver,Dark Mofo Festival,Hobart,Australia,13,6,2020
+Dua Lipa,Utilita Arena,Newcastle upon Tyne,United Kingdom,13,6,2020
+Patti Smith,Junge Garde,Dresden,Germany,13,6,2020
+The Hooters,Colos-Saal,Aschaffenburg,Germany,13,6,2020
+Albert Hammond,Parktheater Plauen,Plauen,Germany,13,6,2020
+The Killers,Riverside Stadium,Middlesbrough,United Kingdom,13,6,2020
+Kiss,Westfalenhalle 1,Dortmund,Germany,14,6,2020
+Randy Newman,Muziekgebouw Eindhoven,Eindhoven,Netherlands,14,6,2020
+The Hooters,Festung Ehrenbreitstein,Koblenz,Germany,14,6,2020
+Kiss,Barclaycard Arena Hamburg,Hamburg,Germany,15,6,2020
+Dua Lipa,SSE Hydro,Glasgow,United Kingdom,15,6,2020
+Patti Smith,SpardaWelt Freilichtbühne,Stuttgart,Germany,15,6,2020
+Lionel Richie,Hampton Court Palace,Surrey,United Kingdom,16,6,2020
+Bon Iver,Rod Laver Arena,Melbourne,Australia,16,6,2020
+Patti Smith,Jahrhunderthalle,Frankfurt Am Main,Germany,16,6,2020
+Randy Newman,Muziekgebouw Eindhoven,Eindhoven,Netherlands,16,6,2020
+The Hooters,Garage,Saarbrucken,Germany,16,6,2020
+Lenny Kravitz,Max-Schmeling-Halle,Berlin,Germany,17,6,2020
+Lionel Richie,Eden Project,Bodelva,United Kingdom,17,6,2020
+The Hooters,Die Kantine,Cologne,Germany,17,6,2020
+Kiss,Copenhell Festival,Copenhagen,Denmark,18,6,2020
+Bon Iver,AEC Theatre,Adelaide,Australia,18,6,2020
+Lenny Kravitz,Zitadelle Mainz,Mainz,Germany,19,6,2020
+Disturbed,Copenhell,København,Denmark,19,6,2020
+The Hooters,Harzer Bergtheater,Thale,Germany,19,6,2020
+Kiss,Osterhus Arena,Sandnes,Norway,20,6,2020
+Lionel Richie,Blenheim Palace,Woodstock,United Kingdom,20,6,2020
+Bon Iver,Riverstage Brisbane,Brisbane,Australia,20,6,2020
+The Hooters,Kulturzentrum Vachawerk,Vacha,Germany,20,6,2020
+Albert Hammond,IBMP - Institut für Biomedizinische und Pharmazeutische Forschung,Heroldsberg,Germany,20,6,2020
+Lionel Richie,York Sports Club,York,United Kingdom,21,6,2020
+Disturbed,Megaland,Landgraaf,Netherlands,21,6,2020
+Bon Iver,First State Super Theatre,Sydney,Australia,23,6,2020
+Lenny Kravitz,Ziggo Dome,Amsterdam Zuidoost,Netherlands,24,6,2020
+Paul Mccartney,Worthy Farm,Pilton,United Kingdom,24,6,2020
+Lionel Richie,BRITA-Arena,Wiesbaden,Germany,24,6,2020
+Bon Iver,First State Super Theatre,Sydney,Australia,24,6,2020
+Lenny Kravitz,Barclaycard Arena Hamburg,Hamburg,Germany,26,6,2020
+Lionel Richie,Kunst!Rasen Bonn/Gronau,Bonn,Germany,26,6,2020
+Albert Hammond,Spitalhof Dinkelsbühl,Dinkelsbühl,Germany,26,6,2020
+Lenny Kravitz,Tusindårsskoven,Odense V,Denmark,27,6,2020
+Bon Iver,RAC Arena,Perth,Australia,27,6,2020
+Lionel Richie,Stadtpark Freilichtbühne,Hamburg,Germany,28,6,2020
+Albert Hammond,Poppodium Q-Factory,Amsterdam,Netherlands,28,6,2020
+Lionel Richie,Sofiero Slott,Helsingborg,Sweden,29,6,2020
+Lionel Richie,The Proms Arena,Lytham,United Kingdom,1,7,2020
+Lionel Richie,Kirketorget,Kongsberg,Norway,2,7,2020
+The Hooters,Schlossparkbühne Marburg,Marburg an der Lahn,Germany,2,7,2020
+Beck,Groene Heuvels,Ewijk,Netherlands,3,7,2020
+Lionel Richie,The Proms Arena,Lytham,United Kingdom,4,7,2020
+The Hooters,Waldschwimmbad Mörfelden,Mörfelden-Walldorf,Germany,4,7,2020
+The Hooters,Columbia Theater,Berlin,Germany,6,7,2020
+Lionel Richie,Tollwood Sommerfestival - Musik Arena,München,Germany,7,7,2020
+The Hooters,Tante-JU,Dresden,Germany,7,7,2020
+The Hooters,Lokschuppen Bielefeld,Bielefeld,Germany,9,7,2020
+Kiss,Festhalle Messe Frankfurt GmbH,Frankfurt am Main,Germany,10,7,2020
+Ms. Lauryn Hill,"The Chapel, Old Royal Naval College",London,United Kingdom,10,7,2020
+America,O2 Empire Shepherds Bush,London,United Kingdom,10,7,2020
+The Hooters,Gemeindehalle,Brilon,Germany,10,7,2020
+Kiss,Hanns-Martin-Schleyer-Halle,Stuttgart,Germany,11,7,2020
+Lionel Richie,Bospop,Weert,Netherlands,11,7,2020
+Billie Eilish,Ziggo Dome,Amsterdam,Netherlands,13,7,2020
+The Hooters,Spectrum,Augsburg,Germany,13,7,2020
+Billie Eilish,Mercedes-Benz Arena,Berlin,Germany,14,7,2020
+Lenny Kravitz,Schlossplatz,Stuttgart,Germany,15,7,2020
+Billie Eilish,Lanxess Arena,Köln,Germany,15,7,2020
+America,Musical Dome,Köln,Germany,15,7,2020
+Aerosmith,The O2,London,United Kingdom,15,7,2020
+The Hooters,Burg Honberg,Tuttlingen,Germany,15,7,2020
+America,Capitol Offenbach,Offenbach,Germany,16,7,2020
+The Hooters,Marktplatz,Schopfheim,Germany,16,7,2020
+America,Metropol Theater Bremen,Bremen,Germany,17,7,2020
+The Hooters,Hyde Park,Osnabrück,Germany,17,7,2020
+Lionel Richie,Freilichtbühne Peißnitz,Halle,Germany,18,7,2020
+Aerosmith,Manchester Arena,Manchester,United Kingdom,18,7,2020
+Lionel Richie,Zitadelle Spandau,Berlin,Germany,19,7,2020
+Patti Smith,"Tollwood Festival, Musik Arena",München,Germany,19,7,2020
+The Hooters,Metropol Theater Bremen,Bremen,Germany,19,7,2020
+Brad Paisley,Bergenhus Festning - Koengen,Bergen,Norway,20,7,2020
+Billie Eilish,Manchester Arena,Manchester,United Kingdom,21,7,2020
+Aerosmith,"Under den nye Lillebæltsbro, Fyn",Middelfart,Denmark,21,7,2020
+The Hooters,Fabrik,Hamburg,Germany,21,7,2020
+Billie Eilish,Manchester Arena,Manchester,United Kingdom,22,7,2020
+Brad Paisley,Festningen i Trondheim,Trondheim,Norway,22,7,2020
+The Hooters,Zeche Bochum,Bochum,Germany,22,7,2020
+Billie Eilish,Arena Birmingham,Birmingham,United Kingdom,24,7,2020
+The Hooters,Seestern-Panorama-Bühne Zeulenroda-Triebes,Zeulenroda-Triebes,Germany,24,7,2020
+The Hooters,Piazza,Regensburg,Germany,25,7,2020
+Billie Eilish,The O2,London,United Kingdom,26,7,2020
+The Hooters,Burg Esslingen,Eßlingen,Germany,26,7,2020
+Billie Eilish,The O2,London,United Kingdom,27,7,2020
+Aerosmith,SparkassenPark Mönchengladbach,Mönchengladbach,Germany,27,7,2020
+Billie Eilish,The O2,London,United Kingdom,29,7,2020
+Brad Paisley,AFAS Live,Amsterdam,Netherlands,29,7,2020
+Billie Eilish,The O2,London,United Kingdom,30,7,2020
+Slipknot,RheinEnergieStadion,Köln,Germany,31,7,2020
+Slipknot,Wacken Open Air,Wacken,Germany,1,8,2020
+Lionel Richie,Cardiff Castle,Cardiff,United Kingdom,2,8,2020
+Lionel Richie,Residenzschloss Ludwigsburg,Ludwigsburg,Germany,4,8,2020
+Lionel Richie,Smukfest,Skanderborg,Denmark,7,8,2020
+Slipknot,Waldbühne Berlin,Berlin,Germany,7,8,2020
+Daddy Yankee,ISS DOME Düsseldorf,Düsseldorf,Germany,8,8,2020
+Albert Hammond,Seebühne in der Wilhelminenaue,Bayreuth,Germany,9,8,2020
+Bon Iver,Oya Festival,Oslo,Norway,12,8,2020
+Bon Iver,Way Out West,Göteborg,Sweden,13,8,2020
+Bon Iver,FLOW festival,Helsinki,Finland,14,8,2020
+Bon Iver,FLOW festival,Helsinki,Finland,15,8,2020
+Bon Iver,FLOW festival,Helsinki,Finland,16,8,2020
+Slipknot,The National Bowl,Milton Keynes,United Kingdom,22,8,2020
+Albert Hammond,ZKF Schwandorf,Schwandorf in Bayern,Germany,29,8,2020
+Albert Hammond,Freilichtbühne Schwerin,Schwerin,Germany,5,9,2020
+Albert Hammond,Laeiszhalle,Hamburg,Germany,19,9,2020
+Blue Oyster Cult,Manchester Arena,Manchester,United Kingdom,2,10,2020
+Blue Oyster Cult,The O2,London,United Kingdom,3,10,2020
+Blue Oyster Cult,SSE Hydro,Glasgow,United Kingdom,5,10,2020
+Blue Oyster Cult,First Direct Arena,Leeds,United Kingdom,6,10,2020
+The Chainsmokers,Zenith,Munich,Germany,7,10,2020
+Blue Oyster Cult,Arena Birmingham,Birmingham,United Kingdom,8,10,2020
+The Chainsmokers,O2 Academy Brixton,London,United Kingdom,15,10,2020
+The Chainsmokers,O2 Academy Brixton,London,United Kingdom,16,10,2020
+Rod Stewart,Sandalford Wines,Caversham,Australia,17,10,2020
+The Chainsmokers,Mitsubishi Electric HALLE,Düsseldorf,Germany,21,10,2020
+Ozzy Osbourne,Utilita Arena,Newcastle Upon Tyne,United Kingdom,23,10,2020
+The Chainsmokers,Ziggo Dome,Amsterdam,Netherlands,23,10,2020
+Rod Stewart,Roche Estate,Pokolbin,Australia,24,10,2020
+Ozzy Osbourne,SSE Hydro,Glasgow,United Kingdom,25,10,2020
+Rod Stewart,Centennial Vineyards,Bowral,Australia,25,10,2020
+Ozzy Osbourne,The O2,London,United Kingdom,28,10,2020
+Ozzy Osbourne,Resorts World Arena,Birmingham,United Kingdom,31,10,2020
+Rod Stewart,Mt Duneed Estate,Waurn Ponds,Australia,31,10,2020
+Albert Hammond,Docken,København Ø,Denmark,1,11,2020
+Ozzy Osbourne,Manchester Arena,Manchester,United Kingdom,2,11,2020
+Rod Stewart,Federation Mall,Canberra,Australia,4,11,2020
+Patti Smith,Tyagarah Tea Tree Farm,Byron Bay,Australia,4,11,2020
+Rod Stewart,Sirromet Wines,Mount Cotton,Australia,7,11,2020
+Ozzy Osbourne,Motorpoint Arena Nottingham,Nottingham,United Kingdom,8,11,2020
+Ozzy Osbourne,Westfalenpark Dortmund,Dudenhofen,Germany,11,11,2020
+Jason Mraz,Kings Park,West Perth,Australia,12,11,2020
+Jason Mraz,Peter Lehmann Wines,Tanunda,Australia,14,11,2020
+Jason Mraz,Rochford Wines Yarra Valley,Coldstream,Australia,15,11,2020
+Jason Mraz,Esca Bimbadgen,Pokolbin,Australia,21,11,2020
+Jason Mraz,Sirromet Wines,Mount Cotton,Australia,22,11,2020
+Ozzy Osbourne,Kleine Olympiahalle München,Munich,Germany,26,11,2020
+Ozzy Osbourne,SAP Arena,Gomadingen,Germany,28,11,2020
+Ozzy Osbourne,Parkhaus der Mercedes-Benz-Arena,Berlin,Germany,30,11,2020
+Ozzy Osbourne,Barclaycard Arena Hamburg,Hamburg,Germany,3,12,2020
+Ozzy Osbourne,Friends Arena,Råsunda,Sweden,5,12,2020
+Ozzy Osbourne,Hartwall Arena,Heinävesi,Finland,7,12,2020
+Hans Zimmer,Mercedes-Benz Arena,Berlin,Germany,11,2,2021
+Hans Zimmer,Olympiahalle München,Munich,Germany,17,2,2021
+Hans Zimmer,Lanxess Arena,Cologne,Germany,19,2,2021
+Hans Zimmer,SAP Arena,Mannheim,Germany,23,2,2021
+Hans Zimmer,Hanns-Martin-Schleyer-Halle,Stuttgart,Germany,25,2,2021
+Hans Zimmer,Ziggo Dome,Amsterdam Zuidoost,Netherlands,27,2,2021
+Hans Zimmer,Ziggo Dome,Amsterdam Zuidoost,Netherlands,28,2,2021
+Hans Zimmer,The O2,London,United Kingdom,5,3,2021
+Hans Zimmer,Manchester Arena,Manchester,United Kingdom,7,3,2021
+Hans Zimmer,Konig Pilsener Arena,Oberhausen,Germany,20,3,2021
+Hans Zimmer,Barclaycard Arena Hamburg,Hamburg,Germany,22,3,2021
+Hans Zimmer,Royal Arena,Copenhagen,Denmark,23,3,2021
+Hans Zimmer,Telenor Arena Shuttlebuss,Oslo,Norway,31,3,2021
+Hans Zimmer,Ericsson Globe,Stockholm,Sweden,1,4,2021
