@@ -1,5 +1,5 @@
 # Danheff
-On my page you will find a selection of different projects I've done relating to databases and data science. More projects are on the way!
+On my page you will find a selection of different projects I am passionate about relating to databases and data science. More projects are being completed at the moment.
 
 Projects:
 
